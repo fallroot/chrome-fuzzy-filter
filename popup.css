@@ -1,0 +1,57 @@
+body {
+  color: #333;
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 1rem;
+  width: 20rem;
+}
+h2 {
+  background: 0 50%/24px no-repeat url("icons/48.png");
+  color: #999;
+  margin: 0;
+  padding: 0 0 0 24px;
+  text-align: right;
+}
+input {
+  border: 0;
+  border-bottom: 1px solid #333;
+  font: inherit;
+  padding: 0.5rem;
+  width: 19rem;
+  -webkit-appearance: none;
+}
+input:focus {
+  outline: none;
+}
+ul {
+  margin: 0.5rem 0 0;
+  list-style: none;
+  padding-left: 0;
+}
+li {
+  padding: 0.5rem;
+}
+li[aria-selected="true"],
+li:hover {
+  background-color: #e6e6e6;
+}
+li:hover {
+  cursor: pointer;
+}
+p {
+  margin: 0;
+}
+#none {
+  display: none;
+  font-size: 14px;
+  margin-top: 1rem;
+  text-align: center;
+  width: 20rem;
+}
+body.empty #search {
+  display: none;
+}
+body.empty #none {
+  display: block;
+}

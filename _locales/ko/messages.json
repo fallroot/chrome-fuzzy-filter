@@ -1,0 +1,11 @@
+{
+  "description": {
+    "message": "목록에서 쉽고 빠르게 단어를 찾으세요"
+  },
+  "nodata": {
+    "message": "찾을 대상이 없습니다"
+  },
+  "placeholder": {
+    "message": "찾을 단어를 입력하세요"
+  }
+}

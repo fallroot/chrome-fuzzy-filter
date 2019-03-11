@@ -1,0 +1,9 @@
+{
+  "name": "chrome-fuzzy-filter",
+  "version": "0.1.0",
+  "author": "CK Moon <fallroot@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}

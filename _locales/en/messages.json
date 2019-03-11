@@ -1,0 +1,11 @@
+{
+  "description": {
+    "message": "Find keyword in the list quickly with less typing"
+  },
+  "nodata": {
+    "message": "There is nothing to find"
+  },
+  "placeholder": {
+    "message": "Type something to find"
+  }
+}
